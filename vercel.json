@@ -1,0 +1,15 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/corporate-signup/",
+      "permanent": false
+    },
+    {
+      "source": "/corporate-signup",
+      "destination": "/corporate-signup/",
+      "permanent": true
+    }
+  ]
+}
